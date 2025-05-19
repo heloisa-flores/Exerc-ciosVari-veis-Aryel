@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main() {
-double pi = 3.141592
-printf("O valor do pi é: %.6f\n", pi);
+ int main() {
+    double pi = 3.141592
+    printf("O valor do pi é: %.6f\n", pi);
 
-return 0;
+    return 0;
+}
