@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    char letra = 'H';
+    printf("Minha letra favorita é: %c\n", letra);
+
+    return 0;
+}
