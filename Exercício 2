@@ -2,7 +2,6 @@
 
 int main() {
     float altura = 1.67;
-
     printf("Minha altura é %.2f metros.\n", altura);
 
     return 0;
