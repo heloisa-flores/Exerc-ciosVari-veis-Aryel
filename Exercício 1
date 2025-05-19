@@ -3,5 +3,6 @@
 int main() {
     int idade = 18;
     printf("Eu tenho %d anos!\n", idade);
+
     return 0;
 }
