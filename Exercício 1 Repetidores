@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+  int i;
+  int num = 7;
+  
+    printf("\t\tTABUADA DO 7\n");
+    for(i=1;i<=10;i++)
+        printf("%d * %d = %d\n", num, i, num*i);
+
+
+    return 0;
+    }
